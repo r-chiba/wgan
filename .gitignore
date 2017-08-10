@@ -1,0 +1,4 @@
+*.pyc
+save
+save_mnist
+MNIST_data
